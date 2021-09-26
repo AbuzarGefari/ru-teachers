@@ -9,7 +9,7 @@ Assaignment Live Site:(https://ru-teachers-info.netlify.app/).
 
 - Teachers Name
 - Teacher Salary
-- ✨Teachers DepartMent
+- Teachers Department
 
 ## Features
 - Attractive UI
