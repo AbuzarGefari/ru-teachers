@@ -1,0 +1,108 @@
+[{
+    "id": 1,
+    "name": "Dr. Mahmuda Kkhatun",
+    "image": "https://api-image-assaignment.netlify.app/1.jpg",
+    "salary": 50000,
+    "Department":"History",
+   "email":"bfeathersbyb@fema.gov"
+  }, 
+  {
+    "id": 2,
+    "name": "Rubaida Akhter",
+    "image": "https://api-image-assaignment.netlify.app/2.jpg",
+    "salary": 70000,
+      "Department":"English",
+    "email": "cloade1@mayoclinic.com"
+  },
+   {
+    "id": 3,
+    "name": "Dr. P. M. Shafiqiul Islam",
+    "image": "https://api-image-assaignment.netlify.app/3.jpg",
+    "salary": 78000,
+      "Department":"Bangla",
+    "email": "cstrippling2@youku.com"
+  }, {
+    "id": 4,
+    "name": "Professor Shamima Akter",
+    "image": "https://api-image-assaignment.netlify.app/4.jpg",
+    "salary": 28000,
+      "Department":"Philosophy",
+    "email": "shoyland3@adobe.com"
+  }, {
+    "id": 5,
+    "name": "Dr.M.Fayek- Uz–Zaman",
+    "image": "https://api-image-assaignment.netlify.app/5.jpg",
+    "salary": 35000,
+      "Department":"Islamic History & Culture",
+    "email": "gjuara4@ca.gov"
+  }, {
+    "id": 6,
+    "name": "M. Abu Bakar Siddique",
+    "image": "https://api-image-assaignment.netlify.app/6.jpg",
+    "salary": 23000,
+      "Department":"Arabic",
+    "email": "wminucci5@nature.com"
+  }, {
+    "id": 7,
+    "name": "Dr. Muhammad Mahbubur Rahman",
+    "image": "https://api-image-assaignment.netlify.app/7.jpg",
+    "salary": 39000,
+      "Department":"Islamic Studies",
+    "email": "rchurchley6@unblog.fr"
+  }, {
+    "id": 8,
+    "name": "Dr. Muhammad Mahbubur Rahman",
+    "image": "https://api-image-assaignment.netlify.app/8.jpg",
+    "salary": 34000,
+      "Department":"Law and Land Administration",
+    "email": "cvandalen7@angelfire.com"
+  }, {
+    "id": 9,
+    "name": "Dr. Nasima Akhter",
+    "image": "https://api-image-assaignment.netlify.app/9.jpg",
+    "salary": 33000,
+      "Department":"Mathematics",
+    "email": "growlings8@barsandnoble.com"
+  }, {
+    "id": 10,
+    "name": "DR. M. Mozibur Rahman",
+    "image": "https://api-image-assaignment.netlify.app/10.jpg",
+    "salary": 44000,
+      "Department":"Physics",
+    "email": "mroseburgh9@furl.net"
+  }, {
+    "id": 11,
+    "name": "Dr. Hasan Ahmad",
+    "image": "https://api-image-assaignment.netlify.app/11.jpg",
+    "salary": 47000,
+      "Department":"Chemistry",
+    "email": "wcurtaina@123-reg.co.uk"
+  }, {
+    "id": 12,
+    "name": "DR. Md. Golam Hossain",
+    "image": "https://api-image-assaignment.netlify.app/12.jpg",
+    "salary": 41000,
+      "Department":"Statistics",
+    "email": "bfeathersbyb@fema.gov"
+  }, {
+    "id": 13,
+    "name": "Dev.Abuzar Gefari",
+    "image": "https://api-image-assaignment.netlify.app/13.jpg",
+    "salary": 80000,
+      "Department":"Biochemistry & Molecular Biology",
+    "email": "sroundtreec@arstechnica.com"
+  }, {
+    "id": 14,
+    "name": "Dr. Md. Aziz Abdur Rahman",
+    "image": "https://api-image-assaignment.netlify.app/14.jpg",
+    "salary": 56000,
+      "Department":"Pharmacy",
+    "email": "ryesenevd@163.com"
+  }, {
+    "id": 15,
+    "name": "Prof. Mohammad Main Uddin",
+    "image": "https://api-image-assaignment.netlify.app/15.jpg",
+    "salary": 25000,
+      "Department":"Accounting ",
+    "email": "bisbelle@sohu.com"
+  }]

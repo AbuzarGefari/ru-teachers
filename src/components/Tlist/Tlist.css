@@ -1,0 +1,11 @@
+.Tlist-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+  background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(215, 223, 252, 1) 0%, rgba(255, 255, 255, 1) 0%, rgba(215, 223, 252, 1) 84%);
+   color: black;
+}
+.teachers{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+ 
+}
